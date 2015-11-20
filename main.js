@@ -26,8 +26,8 @@ console.log(fruit[1][i]);
 	var local = "Learning to code"
 	console.log(local)
     };
-// function
-var vowels = "jfieaojfouea";
+// function that accepts string as an argument and check it for vowels
+var vowels = "fjeiaojfouea";
 	function vChecker() {
 		console.log("vowel at index of " + vowels.indexOf("a"));
 		console.log("vowel at index of " + vowels.indexOf("e"));
